@@ -1,0 +1,36 @@
+{
+    "expo": {
+        "name": "Crypto Maniac",
+        "slug": "cryptomaniac",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/images/favicon.png",
+        "userInterfaceStyle": "automatic",
+        "splash": {
+            "image": "./assets/images/favicon.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#000000"
+        },
+        "updates": {
+            "fallbackToCacheTimeout":0
+        },
+        "assetBundlePatterns": [
+           "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true,
+            "userInterfaceStyle": "automatic"
+        },
+        "android": {
+            "package": "tothepointocde.cryptomaniac",
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/images/favicon.png",
+                "backgroundColor": "#000000"
+            },
+            "userInterfaceStyle": "automatic"
+        },
+        "web": {
+            "favicon": "./assets/images/favicon.png"
+        }
+    }
+}

@@ -1,10 +1,21 @@
 {
   "dependencies": {
-    "expo": "^44.0.0",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
-    "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "axios": "^0.25.0",
+    "expo": "~42.0.1",
+    "expo-linear-gradient": "^9.2.0",
+    "lottie-react-native": "^4.0.2",
+    "moment": "^2.29.1",
+    "react": "16.13.1",
+    "react-native": "^0.63.4",
+    "react-native-bouncy-checkbox": "^2.1.10",
+    "react-native-circular-progress-indicator": "^2.0.6",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-progress": "^5.0.0",
+    "react-native-vector-icons": "^9.0.0",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "victory-native": "^36.2.1",
+    "expo-updates": "~0.8.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
